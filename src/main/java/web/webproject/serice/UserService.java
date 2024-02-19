@@ -1,9 +1,6 @@
 package web.webproject.serice;
 
-
-
 import web.webproject.model.User;
-
 import java.util.List;
 
 public interface UserService {
