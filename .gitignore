@@ -1,10 +1,12 @@
-HELP.md
-target/
+../../../../Desktop/PP_1_1_3-4_JDBC-master/target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### STS ###
+### IntelliJ IDEA ###
+.idea/
+
+### Eclipse ###
 .apt_generated
 .classpath
 .factorypath
@@ -12,12 +14,6 @@ target/
 .settings
 .springBeans
 .sts4-cache
-
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
 
 ### NetBeans ###
 /nbproject/private/
@@ -31,3 +27,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Mac OS ###
+.DS_Store
